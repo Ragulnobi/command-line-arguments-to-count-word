@@ -27,8 +27,6 @@ End of program
 
 ## PROGRAM:
 ```python
-Devoloped by: S.Shanmathi
-RegisterNumber:22003171
 import sys
 count= 0
 with open(sys.argv[1],'r') as f1:
